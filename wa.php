@@ -1,6 +1,9 @@
 <?php
-echo "COPYRIGHT : Nicoleus Sitorus\n\n";
-echo "Nomor Target?\nInput : ";
+echo "Author   : Nicoleus Sitorus\n\n";
+echo "Facebook : Nicoleus Sitorus\n\n";
+echo "Youtube  : ady sitorus ady\n\n";
+echo "TEAM     : SAMOSIR Cyber Team\n\n";
+echo "Nomor Target?\nInput Lae : ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
 	$nomer = str_replace("0","62".$nomer);
