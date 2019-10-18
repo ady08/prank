@@ -1,8 +1,7 @@
 <?php
-echo "Author   : Nicoleus Sitorus\n\n";
-echo "Facebook : Nicoleus Sitorus\n\n";
-echo "Youtube  : ady sitorus ady\n\n";
-echo "TEAM     : SAMOSIR Cyber Team\n\n";
+self.sug(g + 'Developer : ' + c + 'Nicoleus Sitorus... Oooo Yeee')
+self.sug(g + 'Facebook  : ' + c + 'Nicoleus Sitorus')
+self.sug(g + 'YouTube Channel :' + c + 'ady sitorus ady')
 echo "Nomor Target?\nInput Lae : ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
